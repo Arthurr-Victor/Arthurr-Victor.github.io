@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[A complete Churn Analysis]([/sample_page](https://github.com/Arthurr-Victor/A-Complete-Churn-Analysis))
+[A complete Churn Analysis]((https://github.com/Arthurr-Victor/A-Complete-Churn-Analysis))
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
