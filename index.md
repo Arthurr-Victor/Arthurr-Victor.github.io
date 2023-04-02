@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [A complete Churn Analysis](https://github.com/Arthurr-Victor/A-Complete-Churn-Analysis)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/ConfusionMatrix.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
