@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Selected projects in data science and machine learning
 
 [A complete Churn Analysis](https://github.com/Arthurr-Victor/A-Complete-Churn-Analysis)
 <img src="images/ConfusionMatrix (1).png?raw=true"/>
