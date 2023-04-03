@@ -1,23 +1,21 @@
-## Portfolio
+## Selected projects in data science and machine learning
 
 ---
 
-### Selected projects in data science and machine learning
+### A complete Churn Analysis
+<br><br>
+sss
 
-[A complete Churn Analysis](https://github.com/Arthurr-Victor/A-Complete-Churn-Analysis)
+[view more details](https://github.com/Arthurr-Victor/A-Complete-Churn-Analysis)
 <img src="images/ConfusionMatrix (1).png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
+[Customer Segmentation](https://github.com/Arthurr-Victor/Customer-Segmentation_Clustering)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Skills-based projects
 
 - [Project 1 Title](https://github.com/Arthurr-Victor/A-Complete-Churn-Analysis)
 - [Project 2 Title](http://example.com/)
@@ -30,6 +28,3 @@
 
 
 
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
