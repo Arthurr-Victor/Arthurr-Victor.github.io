@@ -15,6 +15,7 @@ The problem of customer churn represents a central impasse for any telecommunica
 Have you ever wondered how grocery stores determine which products to place where or how to create targeted marketing campaigns? The answer lies in customer segmentation. I applied clustering techniques to a dataset of grocery store customers to group them into distinct segments based on their purchasing behavior. Through data analysis, I was able to describe the unique profile of each cluster, including their demographic information, preferred products, and shopping habits. This information can be used by grocery stores to optimize their inventory management, personalize their marketing efforts, and ultimately enhance the customer experience.
 
 [View more details](https://github.com/Arthurr-Victor/Customer-Segmentation_Clustering)
+<br><br>
 <img src="images/Customer image.png?raw=true"/>
 
 ---
@@ -22,7 +23,7 @@ Have you ever wondered how grocery stores determine which products to place wher
 ### Skills-based projects
 
 - [A Web-Scraping application](https://github.com/Arthurr-Victor/A-Complete-Churn-Analysis)
-
+- [Power BI dashboard repository](https://github.com/Arthurr-Victor/MyDashboards)
 
 ---
 
