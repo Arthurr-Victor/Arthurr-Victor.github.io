@@ -24,7 +24,7 @@ I applied clustering techniques to a dataset of grocery store customers to group
 
 ### Skills-based projects
 
-- [A Web-Scraping application](https://github.com/Arthurr-Victor/A-Complete-Churn-Analysis)
+- [A Web-Scraping application](https://github.com/Arthurr-Victor/A-simple-WebScraping-Project/blob/main/WebScraping%20(1).ipynb)
 - [Power BI dashboard repository](https://github.com/Arthurr-Victor/MyDashboards)
 
 ---
