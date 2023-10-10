@@ -4,17 +4,20 @@
 
 ## A complete churn analysis
 <br><br>
-<em>The problem of customer churn represents a central impasse for any telecommunications company. It is less costly to retain current customers than to acquire new ones.</em> <br><br>
-In this project, I addressed the challenge using Python as main tool.
+<em>The problem of customer churn represents a central impasse for any telecommunications company. It is less costly to retain current customers than to acquire new ones.  </em> <br><br>
 
-- I Conducted a comprehensive Exploratory Data Analysis, uncovering critical insights:
-   - Customers with annual or biennial contracts tend to exhibit higher loyalty.
-   - Monthly payment and manual payment methods are associated with increased churn.
+I tackled this issue using Python as the primary tool. <br>
+### Key Highlights
 
-- Implemented a logistic regression algorithm after comprehensive data preprocessing and feature engineering to enhance model performance.
-   - Achieved a validation accuracy of 72% in identifying potential churn cases.
-     
-- Calculated the expected value of $95 per customer by applying the model in real-world scenarios.
+- **Data Exploration (EDA):** Conducted a thorough EDA, revealing vital insights:
+   - Customers with annual or biennial contracts tend to be more loyal.
+   - Monthly payment and manual payment methods are linked to higher churn rates.
+
+- **Model Development:** Implemented a logistic regression algorithm after extensive data preprocessing and engineering.
+   - The model successfully identified 72% of potential churn cases during validation.
+
+- **Business Impact:** Calculated the expected value of $95 per customer by applying the model to real-world scenarios.
+   - Provides actionable insights for informed decisions on customer retention strategies.
    
 
 [View more details](https://github.com/Arthurr-Victor/A-Complete-Churn-Analysis)
