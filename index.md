@@ -11,13 +11,11 @@ In this project, I addressed the challenge using Python as main tool.
    - Customers with annual or biennial contracts tend to exhibit higher loyalty.
    - Monthly payment and manual payment methods are associated with increased churn.
 
-
-- Implemented a logistic regression algorithm after data preprocessing.
+- Implemented a logistic regression algorithm after comprehensive data preprocessing and feature engineering to enhance model performance.
    - Achieved a validation accuracy of 72% in identifying potential churn cases.
-   - 
+     
 - Calculated the expected value of $95 per customer by applying the model in real-world scenarios.
-   - Empowers businesses to make informed decisions regarding customer retention strategies.
-
+   
 
 [View more details](https://github.com/Arthurr-Victor/A-Complete-Churn-Analysis)
 
