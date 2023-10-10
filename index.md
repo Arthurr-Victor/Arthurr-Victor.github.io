@@ -5,21 +5,16 @@
 ## A complete churn analysis
 <br><br>
 <em>The problem of customer churn represents a central impasse for any telecommunications company. It is less costly to retain current customers than to acquire new ones.</em> <br><br>
-In this project, I addressed the challenge of customer churn using Python and machine learning techniques. Here's a brief summary of the key components:
+In this project, I addressed the challenge using Python as main tool.
 
-## Data Analysis
-
-- Conducted a comprehensive data analysis, uncovering critical insights:
+- I Conducted a comprehensive Exploratory Data Analysis, uncovering critical insights:
    - Customers with annual or biennial contracts tend to exhibit higher loyalty.
    - Monthly payment and manual payment methods are associated with increased churn.
 
-## Model Development
 
 - Implemented a logistic regression algorithm after data preprocessing.
    - Achieved a validation accuracy of 72% in identifying potential churn cases.
-
-## Business Value
-
+   - 
 - Calculated the expected value of $95 per customer by applying the model in real-world scenarios.
    - Empowers businesses to make informed decisions regarding customer retention strategies.
 
