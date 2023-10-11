@@ -35,12 +35,28 @@ I applied clustering techniques to a dataset of grocery store customers to group
 
 ---
 
+## Brazilian Ecommerce Olist
+<br><br>
+<em>In the dynamic landscape of e-commerce, the Brazilian E-Commerce Olist Analysis project stands as a guiding light, illuminating the path to data-driven decision-making. Just like skilled artisans, we meticulously explore the treasure trove of data provided by Olist, unearthing valuable insights that extend beyond mere sales figures.
+Equipped with SQL and Power BI, our journey takes us deep into the heart of e-commerce intricacies, revealing logistics efficiency, customer satisfaction, and sales trends.</em> <br><br>
+
+
+[View more details](https://github.com/Arthurr-Victor/Brazilian-Ecommerce-Olist-SQL-PowerBI)
+<br><br>
+<img src="images/Quality Dashboard Brazilian EcommerceOlist.png?raw=true"/>
+<img src="images/Logistic Dashboard Brazilian EcommerceOlist.png?raw=true"/>
+
+---
+
+
 ### Skills-based projects
 - [Deployment - Flash/Gradio/Ngrok](https://github.com/Arthurr-Victor/Deployment-ML)
 - [A Web-Scraping application](https://github.com/Arthurr-Victor/A-simple-WebScraping-Project/blob/main/WebScraping%20(1).ipynb)
 - [Power BI dashboard repository](https://github.com/Arthurr-Victor/MyDashboards)
   <img src="images/DashboardFuncionario.png?raw=true"/>
-
+- [Extracting Bovespa Stocks Data](https://github.com/Arthurr-Victor/Small-Learning-Projects/blob/main/Extraindo%20dados%20da%20Bovespa.ipynb)
+- [Email Report Automation](https://github.com/Arthurr-Victor/Small-Learning-Projects/blob/main/Relat%C3%B3rio%20Autom%C3%A1tico%20para%20Email..ipynb)
+- - [Sentimental Analysis NLP](https://github.com/Arthurr-Victor/Small-Learning-Projects/blob/main/Sentimental_Analysis_NLP.ipynb)
 - [Song-Popularity-Prediction](https://github.com/Arthurr-Victor/Song-Popularity-Prediction)
 
 
