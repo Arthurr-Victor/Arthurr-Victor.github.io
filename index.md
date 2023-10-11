@@ -53,10 +53,9 @@ Equipped with SQL and Power BI, our journey takes us deep into the heart of e-co
 - [Deployment - Flash/Gradio/Ngrok](https://github.com/Arthurr-Victor/Deployment-ML)
 - [A Web-Scraping application](https://github.com/Arthurr-Victor/A-simple-WebScraping-Project/blob/main/WebScraping%20(1).ipynb)
 - [Power BI dashboard repository](https://github.com/Arthurr-Victor/MyDashboards)
-  <img src="images/DashboardFuncionario.png?raw=true"/>
 - [Extracting Bovespa Stocks Data](https://github.com/Arthurr-Victor/Small-Learning-Projects/blob/main/Extraindo%20dados%20da%20Bovespa.ipynb)
 - [Email Report Automation](https://github.com/Arthurr-Victor/Small-Learning-Projects/blob/main/Relat%C3%B3rio%20Autom%C3%A1tico%20para%20Email..ipynb)
-- - [Sentimental Analysis NLP](https://github.com/Arthurr-Victor/Small-Learning-Projects/blob/main/Sentimental_Analysis_NLP.ipynb)
+- [Sentimental Analysis NLP](https://github.com/Arthurr-Victor/Small-Learning-Projects/blob/main/Sentimental_Analysis_NLP.ipynb)
 - [Song-Popularity-Prediction](https://github.com/Arthurr-Victor/Song-Popularity-Prediction)
 
 
