@@ -46,6 +46,10 @@ Equipped with SQL and Power BI, our journey takes us deep into the heart of e-co
 <img src="images/Quality Dashboard Brazilian EcommerceOlist.png?raw=true"/>
 <img src="images/Logistic Dashboard Brazilian EcommerceOlist.png?raw=true"/>
 
+
+https://github.com/Arthurr-Victor/Arthurr-Victor.github.io/assets/127077847/25098139-75fe-4fcf-8384-5c0cae4cc705
+
+
 ---
 
 
