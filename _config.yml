@@ -1,7 +1,8 @@
-title: Arthur Victor # your name (or website title) here
-logo: "/images/fotooficial.png?raw=true" # your photo (or logo) here
-description: # your text below (remove <br> elements if you don't need line breaks)
-As a data science and analytics enthusiast, I possess a robust understanding of data-driven concepts and business intelligence. Leveraging a versatile toolkit that includes Power BI, SQL, Excel, and Python, I extract valuable insights and steering data-driven initiatives. My expertise spans data analysis, machine learning, dashboard development, report generation, and various other data-related tasks. This proficiency enables me to deliver impactful results, unlocking the full potential of data-driven strategies.
+title: Arthur Victor # Seu nome ou título do site
+logo: "/images/fotooficial.png?raw=true" # URL da sua foto ou logotipo
+description: "As a data science and analytics enthusiast, I possess a robust understanding of data-driven concepts and business intelligence. Leveraging a versatile toolkit that includes Power BI, SQL, Excel, and Python, I extract valuable insights and steer data-driven initiatives. My expertise spans data analysis, machine learning, dashboard development, report generation, and various other data-related tasks. This proficiency enables me to deliver impactful results, unlocking the full potential of data-driven strategies."
+
+theme: jekyll-theme-minimal
 
    <br><br> 
    <a href="https://www.linkedin.com/in/arthur-victor-8b8335229/">View My LinkedIn Profile</a> 
